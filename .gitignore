@@ -1,0 +1,8 @@
+.metadata
+.classpath
+.settings
+.project
+bin/
+*.txt
+
+
